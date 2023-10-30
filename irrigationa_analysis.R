@@ -18,3 +18,4 @@ edf = binay$Df[5]
 ems = binay$`Mean Sq`[5]
 
 lsd = with(Book, LSD.test())
+lsd
